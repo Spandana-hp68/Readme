@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Spandana-hp68](https://github.com/Spandana-hp68)
 
-- 💬 Ask me about **Git & GitHub Basics, Backend Development (Flask, Django),Python Programming (Beginner to Intermediate)Python Programming (Beginner to Intermediate)**
+- 💬 Ask me about **Git & GitHub Basics, Backend Development (Flask, Django),Python Programming (Beginner to Intermediate)**
 
 - 📫 How to reach me **spandanahp777@gmail.com**
 
